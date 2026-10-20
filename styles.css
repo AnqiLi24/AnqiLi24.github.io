@@ -299,11 +299,6 @@ p:not(.pub-links) a:hover,
   transform: translate(0, -50%);
 }
 
-.hint {
-  color: var(--muted);
-  font-size: 12.5px;
-}
-
 .toc {
   display: flex;
   flex-direction: column;
